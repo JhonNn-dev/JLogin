@@ -1,0 +1,10 @@
+name: JLogin
+version: '${project.version}'
+main: br.com.utils.JLogin
+commands:
+  login:
+    aliases: [logar]
+  register:
+    aliases: [registrar]
+  trocarsenha:
+    aliases: [trocars]
